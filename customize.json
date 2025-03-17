@@ -1,0 +1,32 @@
+{
+  "greeting": "¡Hola!",
+  "name": "Andrea",
+  "greetingText": "Hoy es un día tan hermoso como cualquier otro, pero te das cuenta de que otro año ha pasado en un abrir y cerrar de ojos?",
+  
+  "wishText": "Distruta tu dia especial",
+  "imagePath": "img/and1.png",
+
+  "text1": "¡¡¡Hoy es tu cumpleaños!!! :D",
+  "textInChatBox": "He preparado todo esto como un regalo para ti, un pequeño reflejo del cariño y la gratitud que siento por nuestra amistad",
+  "sendButtonLabel": "Enviar",
+  "text2": " Gracias por estar ahí, por cada momento compartido y por todo lo que significas.",
+  "text3": "Te deseo lo mejor, siempre. Que la vida te sonría y que cada uno de tus sueños se haga realidad.",
+  "text4": "No temas al futuro, porque Dios está contigo, y este año será aún mejor.",
+  "text4Adjective": "Que en tu camino encuentres felicidad",
+  "text5Entry": "Mantén tu espíritu en alto, disfruta cada momento que vivas hoy",
+  "text5Content": "que cada instante esté lleno de sonrisas y que hoy, en especial, atesores recuerdos inolvidables.",
+  "smiley": ":)",
+  "bigTextPart1": "",
+  "bigTextPart2": "Una vez más",
+  "wishHeading": "¡Feliz cumpleaños!",
+  "outroText": "¡Espero que te haya gustado!",
+  "replayText": "Puedes verlo denuevo.",
+  "outroSmiley": ":)",
+  "music": "./music/hbd.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
